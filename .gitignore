@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.python/
+.python-layout/
+*.db
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+
+# Environment
+.env
+backend/.env
+frontend/.env
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+.coverage
+htmlcov/
+
+# Temporary local installers
+python-*-amd64.exe
